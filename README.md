@@ -1,5 +1,7 @@
-# Bachelor Thesis: Federated Deep Learning for Brain Tumor Classification
-
+# Bachelor Thesis:  Optimizing Privacy and Efficiency in Brain Tumor
+ Classification through Advanced Non-IID
+ Federated Deep Learning
+ 
 This repository hosts the code and resources for the thesis **"Federated Deep Learning for Brain Tumor Classification using MRI Data."** The research integrates advanced deep learning techniques and Federated Learning (FL) to tackle challenges in medical diagnostics, particularly brain tumor classification.
 
 ## Overview
